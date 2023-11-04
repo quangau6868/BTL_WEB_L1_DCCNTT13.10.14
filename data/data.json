@@ -1,0 +1,275 @@
+[
+    {
+        "id": 1,
+        "name": "ÁO VEST GHI KẺ NÂU ĐEN - AV299",
+        "price": 3100000,
+        "image": "img/vest/vest1.webp",
+        "category": "Vest"
+    },
+    {
+        "id": 2,
+        "name": "ÁO VEST ADAM XANH 2 HÀNG KHUY HỌA TIẾT HERRINGBONE - AV331CQ",
+        "price": 3250000,
+        "image": "img/vest/vest2.webp",
+        "category": "Vest"
+    },
+    {
+        "id": 3,
+        "name": "ÁO VEST XANH KẺ Ô TRẮNG - AV302",
+        "price": 3200000,
+        "image": "img/vest/vest3.webp",
+        "category": "Vest"
+    },
+    {
+        "id": 4,
+        "name": "ÁO VEST ADAM BEIGE SỮA - AV308",
+        "price": 3100000,
+        "image": "img/vest/vest4.webp",
+        "category": "Vest"
+    },
+    {
+        "id": 5,
+        "name": "ÁO VEST GHI SÁNG TRƠN - AV311",
+        "price": 3550000,
+        "image": "img/vest/vest5.webp",
+        "category": "Vest"
+    },
+    {
+        "id": 6,
+        "name": " ÁO VEST ADAM XANH TÍM THAN KẺ Ô - AV245",
+        "price": 2950000,
+        "image": "img/vest/vest6.webp",
+        "category": "Vest"
+    },
+    {
+        "id": 7,
+        "name": "ÁO VEST ADAM GHI KẺ Ô SÁNG - AV319",
+        "price": 2950000,
+        "image": "img/vest/vest7.webp",
+        "category": "Vest"
+    },
+    {
+        "id": 8,
+        "name": "ÁO VEST ADAM XANH GHI XƯỚC - AV287",
+        "price": 2950000,
+        "image": "img/vest/vest8.webp",
+        "category": "Vest"
+    },
+    {
+        "id": 9,
+        "name": "ÁO VEST ADAM BEIGE SỮA - AV308",
+        "price": 2750000,
+        "image": "img/vest/vest9.webp",
+        "category": "Vest"
+    },
+    {
+        "id": 10,
+        "name": "SƠ MI ĐỎ KẺ SỌC PHA CỔ TRẮNG - TXTK15",
+        "price": 900000,
+        "image": "img/shirt/shirt1.webp",
+        "category": "Áo sơ mi"
+    },
+    {
+        "id": 11,
+        "name": "SƠ MI TRẮNG KẺ CARO - SDTTK0042T",
+        "price": 900000,
+        "image": "img/shirt/shirt2.webp",
+        "category": "Áo sơ mi"
+    },
+    {
+        "id": 12,
+        "name": "SƠ MI XANH TÍM THAN KẺ SỌC TO PHA CỔ TRẮNG - TXTK13",
+        "price": 950000,
+        "image": "img/shirt/shirt3.webp",
+        "category": "Áo sơ mi"
+    },
+    {
+        "id": 13,
+        "name": "SƠ MI NAM XANH SÁNG KẺ SỌC - SDTTK0040X",
+        "price": 900000,
+        "image": "img/shirt/shirt4.webp",
+        "category": "Áo sơ mi"
+    },
+    {
+        "id": 14,
+        "name": "SƠ MI XANH TÍM THAN KẺ SỌC TRẮNG - TXTK19",
+        "price": 900000,
+        "image": "img/shirt/shirt5.jpg",
+        "category": "Áo sơ mi"
+    },
+    {
+        "id": 15,
+        "name": "SƠ MI BAMBOO NAM CÔNG SỞ GHI - SMBB13",
+        "price": 900000,
+        "image": "img/shirt/shirt6.webp",
+        "category": "Áo sơ mi"
+    },
+    {
+        "id": 16,
+        "name": "SƠ MI BAMBOO NAM CÔNG SỞ XANH SÁNG - SMBB09",
+        "price": 900000,
+        "image": "img/shirt/shirt7.webp",
+        "category": "Áo sơ mi"
+    },
+    {
+        "id": 17,
+        "name": "SƠ MI XANH SÁNG SỌC - TXTK17",
+        "price": 900000,
+        "image": "img/shirt/shirt8.jpg",
+        "category": "Áo sơ mi"
+    },
+    {
+        "id": 18,
+        "name": "SƠ MI NAM BEIGE HỌA TIẾT KẺ CARO - SMC112",
+        "price": 750000,
+        "image": "img/shirt/shirt9.webp",
+        "category": "Áo sơ mi"
+    },
+    {
+        "id": 19,
+        "name": "QUẦN GHI ĐẬM HỌA TIẾT XƯƠNG CÁ CHÌM - Q328",
+        "price": 850000,
+        "image": "img/trousers/trousers1.webp",
+        "category": "Quần âu "
+    },
+    {
+        "id": 20,
+        "name": "QUẦN BEIGE TRƠN - Q308",
+        "price": 900000,
+        "image": "img/trousers/trousers2.webp",
+        "category": "Quần âu "
+    },
+    {
+        "id": 21,
+        "name": "QUẦN ÂU ADAM BEIGE SIDETAB - Q308K1",
+        "price": 850000,
+        "image": "img/trousers/trousers3.webp",
+        "category": "Quần âu "
+    },
+    {
+        "id": 22,
+        "name": "QUẦN ÂU ADAM XANH SỌC CHÌM - Q331",
+        "price": 1000000,
+        "image": "img/trousers/trousers4.webp",
+        "category": "Quần âu "
+    },
+    {
+        "id": 23,
+        "name": "QUẦN ÂU ADAM ĐEN SỌC CHÌM - Q332",
+        "price": 900000,
+        "image": "img/trousers/trousers5.webp",
+        "category": "Quần âu "
+    },
+    {
+        "id": 24,
+        "name": "QUẦN ÂU ADAM BE KIỂU - Q307K1",
+        "price": 850000,
+        "image": "img/trousers/trousers6.webp",
+        "category": "Quần âu "
+    },
+    {
+        "id": 25,
+        "name": "QUẦN ÂU ADAM XANH TT CẠP CHUN - Q292K2",
+        "price": 900000,
+        "image": "img/trousers/trousers7.webp",
+        "category": "Quần âu "
+    },
+    {
+        "id": 26,
+        "name": "QUẦN ÂU ADAM XANH TT TRƠN - Q292",
+        "price": 900000,
+        "image": "img/trousers/trousers8.webp",
+        "category": "Quần âu "
+    },
+    {
+        "id": 27,
+        "name": "QUẦN ÂU ADAM ĐEN KIỂU - Q291K1",
+        "price": 750000,
+        "image": "img/trousers/trousers9.webp",
+        "category": "Quần âu "
+    },
+    {
+        "id": 28,
+        "name": "GIÀY BUỘC DÂY ADAM OXFORDS BURGENDY - GTX008D - GTX0012M",
+        "price": 2500000,
+        "image": "img/accessory/accessory1.webp",
+        "category": "Phụ kiện "
+    },
+    {
+        "id": 29,
+        "name": "DÉP ADAM CÓ QUAI CÀI - DAD004D",
+        "price": 1800000,
+        "image": "img/accessory/accessory2.webp",
+        "category": "Phụ kiện "
+    },
+    {
+        "id": 30,
+        "name": "THẮT LƯNG - TL38",
+        "price": 550000,
+        "image": "img/accessory/accessory4.webp",
+        "category": "Phụ kiện "
+    },
+    {
+        "id": 31,
+        "name": "QUẦN SỊP ĐÙI GHI KẺ LỚN - S8006-2",
+        "price": 160000,
+        "image": "img/accessory/accessory7.jpg",
+        "category": "Phụ kiện "
+    },
+    {
+        "id": 32,
+        "name": "QUẦN SỊP ĐÙI CAM KẺ LỚN - S8006-2",
+        "price": 160000,
+        "image": "img/accessory/accessory8.jpg",
+        "category": "Phụ kiện "
+    },
+    {
+        "id": 33,
+        "name": "TẤT CAO CỔ NÂU SÁNG ADAM - TATCC07",
+        "price": 160000,
+        "image": "img/accessory/accessory9.webp",
+        "category": "Phụ kiện "
+    },
+    {
+        "id": 34,
+        "name": "GIÀY BUỘC DÂY NÂU ADAM OXFORDS - GTX014N",
+        "price": 2500000,
+        "image": "img/accessory/accessory3.webp",
+        "category": "Phụ kiện "
+    },
+    {
+        "id": 35,
+        "name": "THẮT LƯNG ADAM - TL03",
+        "price": 550000,
+        "image": "img/accessory/accessory5.webp",
+        "category": "Phụ kiện "
+    },
+    {
+        "id": 36,
+        "name": "THẮT LƯNG ADAM - TL05",
+        "price": 550000,
+        "image": "img/accessory/accessory6.webp",
+        "category": "Phụ kiện "
+    },
+    {
+        "id": 37,
+        "name": "SƠ MI NAM TRẮNG KẺ SỌC ĐEN - SDTTK0032",
+        "price": 750000,
+        "image": "img/shirt/shirt11.webp",
+        "category": "Áo sơ mi"
+    },
+    {
+        "id": 38,
+        "name": "SƠ MI NAM TRẮNG KẺ SỌC - SDTTK0040",
+        "price": 900000,
+        "image": "img/shirt/shirt12.webp",
+        "category": "Áo sơ mi"
+    },
+    {
+        "id": 39,
+        "name": "SƠ MI NAM TRẮNG HỌA TIẾT CHẤM - SMC108",
+        "price": 750000,
+        "image": "img/shirt/shirt14.webp",
+        "category": "Áo sơ mi"
+    }
+]
